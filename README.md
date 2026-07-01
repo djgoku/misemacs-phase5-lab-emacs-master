@@ -1,1 +1,0 @@
-misemacs master channel — release artifact repo (binaries only, published by CI from djgoku/misemacs-phase5-lab).
